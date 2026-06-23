@@ -224,9 +224,9 @@ Step 12 → Final Comparison Report
  
 ## 👨‍💻 Author
  
-**Your Name**
-- 📧 your.email@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+**FARHEEN ANJUM**
+- 📧 anjumfarheen41@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/farheen-anjum-582y/)
 - 🐙 [GitHub](https://github.com/yourusername)
 ---
  
