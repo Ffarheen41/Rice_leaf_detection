@@ -219,7 +219,7 @@ Step 12 → Final Comparison Report
 **FARHEEN ANJUM**
 - 📧 anjumfarheen41@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/farheen-anjum-582y/)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 🐙 [GitHub](https://github.com/Ffarheen41)
 ---
  
 ## 📄 License
