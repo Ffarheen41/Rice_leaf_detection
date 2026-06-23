@@ -1,15 +1,6 @@
 # 🌾 Rice Leaf Disease Detection using Deep Learning
  
 <div align="center">
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green?style=for-the-badge&logo=opencv)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
- 
-**Automated classification of rice leaf diseases using Transfer Learning, Grad-CAM explainability, and 5-Fold Cross-Validation.**
- 
-[📊 View Results](#results) · [🚀 Quick Start](#quick-start) · [📁 Project Structure](#project-structure) · [🔍 Grad-CAM](#explainability)
  
 </div>
 ---
