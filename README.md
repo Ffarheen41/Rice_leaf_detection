@@ -55,7 +55,7 @@ PRCP-1001-RiceLeafDisease/
  
 ## 🌿 Dataset
  
-- **Source:** [Rice Leaf Disease Dataset — Kaggle](https://www.kaggle.com/datasets/nizorogbezuode/rice-leaf-diseases)
+- **Source:** [Rice Leaf Disease Dataset — Kaggle](https://www.kaggle.com/code/kerneler/starter-rice-leaf-diseases-dataset-102af3c5-e)
 - **Total Images:** 119 JPG images
 - **Classes:** 3 (balanced)
 - **Format:** RGB JPG images
@@ -128,20 +128,21 @@ print(result['confidence'])         # e.g. 94.3%
 ## 📊 Results
  
 ### Model Comparison
- 
+
 | Model | Val Accuracy | Test Accuracy | F1-Score | Params |
 |---|---|---|---|---|
-| Custom CNN | ~% | ~% | ~% | ~1M |
-| **EfficientNetB0** | **~%** | **~%** | **~%** | **5.3M** |
-| MobileNetV2 | ~% | ~% | ~% | 3.4M |
-| ResNet50 | ~% | ~% | ~% | 25M |
+| Custom CNN | 33.33% | 33.33% | 16.67% | ~1M |
+| **EfficientNetB0** | 33.33% | 33.33% | 16.67% | 5.3M |
+| MobileNetV2 | 33.33% | 33.33% | **27.30%** | 3.4M |
+| ResNet50 | 33.33% | 33.33% | 16.67% | 25M |
+
  
 > 📝 Fill in your actual results after running. K-Fold mean accuracy is the most reliable number to report.
  
 ### 5-Fold Cross-Validation (Most Reliable)
 ```
-Mean Accuracy : XX.XX% ± X.XX%
-Mean F1-Score : X.XXXX
+Mean Accuracy : 37.86% ± 6.26%
+Mean F1-Score : 0.1960
 All 119 images used — no data wasted on a fixed test set
 ```
  
@@ -155,7 +156,7 @@ Grad-CAM heatmaps **prove the model looks at disease lesions**, not background n
 - 🔵 **Blue/cool areas** = ignored regions
 - ✅ If warm areas align with disease spots → model is learning correctly
 - ❌ If warm areas are on background/borders → model is learning shortcuts
-*(Add your Grad-CAM output image here after running: `outputs/14_gradcam.png`)*
+
  
 ---
  
